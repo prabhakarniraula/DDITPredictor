@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DDIT Predictor</string>
+    <string name="app_version">(v1.0.0)</string>
+    <string name="created"> Created By :</string>
+    <string name="sessional1">Sessional 1  Marks</string>
+    <string name="sessional2">Sessional 2  Marks</string>
+    <string name="sessional3">Sessional 3  Marks</string>
+    <string name="prac">practical + viva</string>
+    <string name="display">Display</string>
+    <string name="pointer">Pointers</string>
+    <string name="prompt">Select Exam to predict Marks</string>
+    <string name="external">External  Marks</string>
+    <string name="title_activity_about">"About "</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="max_marks">Maximum Marks </string>
+    <string name="sessional1_regular">Sessional 1   :</string>
+    <string name="sessional1_bold"><b><i>Sessional 1   :</i></b></string>
+    <string name="sessional2_regular">Sessional 2   :</string>
+    <string name="sessional2_bold"><b><i>Sessional 2 :</i></b></string>
+    <string name="sessional3_regular">Sessional 3   :</string>
+    <string name="sessional3_bold"><b><i>Sessional 3 :</i></b></string>
+    <string name="practical_regular">Practical/Viva :</string>
+    <string name="practical_bold"><b><i>Practical/Viva :</i></b></string>
+    <string name="ext_regular">External :</string>
+    <string name="ext_bold">&lt;b>External : &lt;/b></string>
+    <string name="ptr_regular">Pointer        :</string>
+    <string name="ptr_bold">Pointer :</string>
+    <string name="site"><a href="http://wecodelicious.net">Visit Site</a></string>
+    <string name="title_activity_help">Help</string>
+    <string name="help_content">\n\nEnter marks of all sessional exams and estimated practical+viva marks(Out of 50) of a particular subject.\n\nSelect 150 if the subject is having practical and 100 otherwise.\n\nPress the button to see minimum marks required in external exam to get the desired pointer in that subject.</string>
+
+</resources>
